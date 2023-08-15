@@ -1,4 +1,5 @@
 ln_data/MS_CXR
 released_checkpoint/*.pth
+pretrained/*.pth
 __pycache__
 .vscode
