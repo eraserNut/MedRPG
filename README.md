@@ -21,7 +21,7 @@ You can use the environment as requirements.txt
 ## Citation
 @inproceedings{chen23MedRPG,   
 &nbsp;&nbsp;&nbsp;&nbsp;  author = {Chen, Zhihao and Zhou, Yang and Tran, Anh and Zhao, Junting and Wan, Liang and Ooi, G.S.K. and Cheng, L.T.-E. and Thng, C.H. and Xu, Xinxing and Liu, Yong and Fu, Huazhu},    
-&nbsp;&nbsp;&nbsp;&nbsp;  title = {Triple-cooperative Video Shadow Detection},    
+&nbsp;&nbsp;&nbsp;&nbsp;  title = {Medical Phrase Grounding with Region-Phrase Context Contrastive Alignment},    
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle = {MICCAI},    
 &nbsp;&nbsp;&nbsp;&nbsp;  year  = {2023}    
 }
