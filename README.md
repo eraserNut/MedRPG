@@ -4,7 +4,7 @@ Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region
 #### News: In 2023.8.15, We first release the code of MedRPG.
 
 ***
-[Image Text](https://github.com/eraserNut/MedRPG/blob/master/figures/framework.png)
+![Image Text](https://github.com/eraserNut/MedRPG/blob/master/figures/framework.png)
 ## Environment
 You can use the environment as requirements.txt
 
