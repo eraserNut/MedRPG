@@ -6,7 +6,7 @@ Implementation for the MICCAI 2023 paper **"Medical Phrase Grounding with Region
 ***
 ![Image Text](https://github.com/eraserNut/MedRPG/blob/master/figures/framework.png)
 ## Environment
-You can use the environment as requirements.txt
+As shown in ```requirements.txt```
 
 ## Try a demo
 1. Download our [released checkpoint](https://drive.google.com/file/d/1STt5oG52YenG3XLYyjOm13HsVdFLrKKv/view?usp=sharing) to folder ```released_checkpoint```
